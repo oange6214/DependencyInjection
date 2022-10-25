@@ -19,7 +19,7 @@ References
 https://www.youtube.com/watch?v=2rv-lcqW1tM
 
 
-# DependencyInjection2
+# DependencyInjectionBlazorServerDemo
 
 
 套件使用：
