@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DependencyInjectionBlazorServerDemo
 build_property.RootNamespace = DependencyInjectionBlazorServerDemo
-build_property.ProjectDir = C:\DependencyInjection\DependencyInjectionBlazorServerDemo\
+build_property.ProjectDir = J:\C#\DependencyInjection\DependencyInjectionBlazorServerDemo\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\DependencyInjection\DependencyInjectionBlazorServerDemo
+build_property.MSBuildProjectDirectory = J:\C#\DependencyInjection\DependencyInjectionBlazorServerDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/App.razor]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/Counter.razor]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/Index.razor]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/Shared/SurveyPrompt.razor]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/_Imports.razor]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/Shared/MainLayout.razor]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-aody3wzhx4
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/Shared/NavMenu.razor]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-vn8irv9go2
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/Error.cshtml]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/_Host.cshtml]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/_Layout.cshtml]
+[J:/C\#/DependencyInjection/DependencyInjectionBlazorServerDemo/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
